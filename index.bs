@@ -1,0 +1,24 @@
+<pre class='metadata'>
+Title: The <TODO> API
+Shortname: <todo>
+Level: None
+Status: w3c/UD
+Repository: explainers-by-googlers/todo-your-repo-name
+URL: https://explainers-by-googlers.github.io/todo-your-repo-name
+Editor: <TODO: Your Name>, Google https://google.com, <TODO>@google.com
+!Tests: <a href=https://github.com/w3c/web-platform-tests/tree/master/todo-api-label>web-platform-tests todo-api-label/</a> (<a href=https://github.com/w3c/web-platform-tests/labels/todo-api-label>ongoing work</a>)
+Abstract: TODO: A short description of your spec, one or two sentences.
+Markup Shorthands: markdown yes, css no
+Complain About: accidental-2119 yes, missing-example-ids yes
+Assume Explicit For: yes
+Die On: warning
+Include MDN Panels: if possible
+Include Can I Use Panels: yes
+</pre>
+
+Introduction {#intro}
+=====================
+
+For now, see the [explainer]([REPOSITORYURL]).
+
+See [https://speced.github.io/bikeshed/](https://speced.github.io/bikeshed/) to get started on your specificaton.
