@@ -4,6 +4,9 @@
 instances as appropriate. For the instances in `index.bs`, update the repository name, but you can
 leave the rest until you start the specification. Then delete this block of text.**
 
+This proposal is an early design sketch by [TODO: team] to describe the problem below and solicit
+feedback on the proposed solution. It has not been approved to ship in Chrome.
+
 ## Proponents
 
 - [Proponent team 1]
