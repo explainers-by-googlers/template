@@ -2,10 +2,13 @@
 
 **Instructions for the explainer author: Search for "todo" in this repository and update all the
 instances as appropriate. For the instances in `index.bs`, update the repository name, but you can
-leave the rest until you start the specification. Then delete this block of text.**
+leave the rest until you start the specification. Then delete the TODOs and this block of text.**
 
 This proposal is an early design sketch by [TODO: team] to describe the problem below and solicit
 feedback on the proposed solution. It has not been approved to ship in Chrome.
+
+TODO: Fill in the whole explainer template below using https://tag.w3.org/explainers/ as a
+reference. Look for [brackets].
 
 ## Proponents
 
@@ -14,7 +17,7 @@ feedback on the proposed solution. It has not been approved to ship in Chrome.
 - [etc.]
 
 ## Participate
-- [Issue tracker]
+- https://github.com/explainers-by-googlers/[your-repository-name]/issues
 - [Discussion forum]
 
 ## Table of Contents [if the explainer is longer than one printed page]
@@ -24,14 +27,16 @@ feedback on the proposed solution. It has not been approved to ship in Chrome.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Introduction](#introduction)
-- [Goals [or Motivating Use Cases, or Scenarios]](#goals-or-motivating-use-cases-or-scenarios)
+- [Goals](#goals)
 - [Non-goals](#non-goals)
 - [User research](#user-research)
-- [[API 1]](#api-1)
-- [[API 2]](#api-2)
-- [Key scenarios](#key-scenarios)
-  - [Scenario 1](#scenario-1)
-  - [Scenario 2](#scenario-2)
+- [Use cases](#use-cases)
+  - [Use case 1](#use-case-1)
+  - [Use case 2](#use-case-2)
+- [[Potential Solution]](#potential-solution)
+  - [How this solution would solve the use cases](#how-this-solution-would-solve-the-use-cases)
+    - [Use case 1](#use-case-1-1)
+    - [Use case 2](#use-case-2-1)
 - [Detailed design discussion](#detailed-design-discussion)
   - [[Tricky design choice #1]](#tricky-design-choice-1)
   - [[Tricky design choice 2]](#tricky-design-choice-2)
@@ -45,16 +50,15 @@ feedback on the proposed solution. It has not been approved to ship in Chrome.
 
 ## Introduction
 
-TODO: Fill this in using https://tag.w3.org/explainers/ as a reference.
-
 [The "executive summary" or "abstract".
 Explain in a few sentences what the goals of the project are,
 and a brief overview of how the solution works.
 This should be no more than 1-2 paragraphs.]
 
-## Goals [or Motivating Use Cases, or Scenarios]
+## Goals
 
-[What is the **end-user need** which this project aims to address?]
+[What is the **end-user need** which this project aims to address? Make this section short, and
+elaborate in the Use cases section.]
 
 ## Non-goals
 
@@ -63,16 +67,24 @@ enumerate them here. This section may be fleshed out as your design progresses a
 
 ## User research
 
-[If any user research has been conducted to inform the design choices presented
-discuss the process and findings.
-We strongly encourage that API designers consider conducting user research to
-verify that their designs meet user needs and iterate on them,
-though we understand this is not always feasible.]
+[If any user research has been conducted to inform your design choices,
+discuss the process and findings. User research should be more common than it is.]
+
+## Use cases
+
+[Describe in detail what problems end-users are facing, which this project is trying to solve. A
+common mistake in this section is to take a web developer's or server operator's perspective, which
+makes reviewers worry that the proposal will violate [RFC 8890, The Internet is for End
+Users](https://www.rfc-editor.org/rfc/rfc8890).]
+
+### Use case 1
+
+### Use case 2
 
 <!-- In your initial explainer, you shouldn't be attached or appear attached to any of the potential
 solutions you describe below this. -->
 
-## [Potential Solution 1]
+## [Potential Solution]
 
 [For each related element of the proposed solution - be it an additional JS method, a new object, a new element, a new concept etc., create a section which briefly describes it.]
 
@@ -93,15 +105,13 @@ If there is no suitable external documentation, you might like to provide supple
 
 [If spec work is in progress, link to the PR or draft of the spec.]
 
-## [Potential Solution 2]
+[If you have more potential solutions in mind, add ## Potential Solution 2, 3, etc. sections.]
 
-[etc.]
+### How this solution would solve the use cases
 
-## Key scenarios
+[If there are a suite of interacting APIs, show how they work together to solve the use cases described.]
 
-[If there are a suite of interacting APIs, show how they work together to solve the key scenarios described.]
-
-### Scenario 1
+#### Use case 1
 
 [Description of the end-user scenario]
 
@@ -109,7 +119,7 @@ If there is no suitable external documentation, you might like to provide supple
 // Sample code demonstrating how to use these APIs to address that scenario.
 ```
 
-### Scenario 2
+#### Use case 2
 
 [etc.]
 
