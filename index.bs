@@ -26,15 +26,3 @@ See [https://garykac.github.io/procspec/](https://garykac.github.io/procspec/),
 [https://dlaliberte.github.io/bikeshed-intro/index.html](https://dlaliberte.github.io/bikeshed-intro/index.html),
 and [https://speced.github.io/bikeshed/](https://speced.github.io/bikeshed/) to get started on your
 specificaton.
-
-<wpt rest></wpt>
-
-<div class="issue">
-Associate web platform tests with the part of the spec they cover by adding blocks like
-```html
-<wpt>
-  first-test.html
-  second-test.html
-</wpt>
-```
-</div>
