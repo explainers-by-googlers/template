@@ -43,6 +43,7 @@ reference. Look for [brackets].
 - [Considered alternatives](#considered-alternatives)
   - [[Alternative 1]](#alternative-1)
   - [[Alternative 2]](#alternative-2)
+- [Security and Privacy Considerations](#security-and-privacy-considerations)
 - [Stakeholder Feedback / Opposition](#stakeholder-feedback--opposition)
 - [References & acknowledgements](#references--acknowledgements)
 
@@ -153,6 +154,13 @@ and why you decided against it.]
 ### [Alternative 2]
 
 [etc.]
+
+## Security and Privacy Considerations
+
+[This section can start out as your answers to the [Security and Privacy Self-Review
+Questionnaire](https://www.w3.org/TR/security-privacy-questionnaire/), but you should eventually
+focus it on the aspects of your feature that need special security or privacy attention from
+implementers or users.]
 
 ## Stakeholder Feedback / Opposition
 
