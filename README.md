@@ -157,10 +157,10 @@ and why you decided against it.]
 
 ## Security and Privacy Considerations
 
-[This section can start out as your answers to the [Security and Privacy Self-Review
-Questionnaire](https://www.w3.org/TR/security-privacy-questionnaire/), but you should eventually
-focus it on the aspects of your feature that need special security or privacy attention from
-implementers or users.]
+[Describe any interesting answers you give to the [Security and Privacy Self-Review
+Questionnaire](https://www.w3.org/TR/security-privacy-questionnaire/) and any interesting ways that
+your feature interacts with [Chromium's Web Platform Security
+Guidelines](https://chromium.googlesource.com/chromium/src/+/master/docs/security/web-platform-security-guidelines.md).]
 
 ## Stakeholder Feedback / Opposition
 
