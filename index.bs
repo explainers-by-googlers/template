@@ -25,4 +25,4 @@ For now, see the [explainer]([REPOSITORYURL]).
 See [https://garykac.github.io/procspec/](https://garykac.github.io/procspec/),
 [https://dlaliberte.github.io/bikeshed-intro/index.html](https://dlaliberte.github.io/bikeshed-intro/index.html),
 and [https://speced.github.io/bikeshed/](https://speced.github.io/bikeshed/) to get started on your
-specificaton.
+specification.
