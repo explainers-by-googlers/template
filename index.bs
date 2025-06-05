@@ -20,7 +20,7 @@ Include Can I Use Panels: yes
 Introduction {#intro}
 =====================
 
-For now, see the [explainer]([REPOSITORYURL]).
+For now, see the <a href=[REPOSITORYURL]>explainer</a>.
 
 See [https://garykac.github.io/procspec/](https://garykac.github.io/procspec/),
 [https://dlaliberte.github.io/bikeshed-intro/index.html](https://dlaliberte.github.io/bikeshed-intro/index.html),
